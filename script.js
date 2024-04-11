@@ -25,10 +25,15 @@ const poems = [
     image: "peanut-butter.jpeg",
   },
   {
+    author: "Heather",
+    poem: "Roses are red \n Violets are blue \n Cats are so cute \n and dogs are adorable too",
+    image: "cute.jpg",
+  },
+  {
     author: "Elina",
     poem: "Roses Are Red",
     image: "rosesarered.jpg",
-  },
+  }
 ];
 
 let displayPoems = (array) => {
