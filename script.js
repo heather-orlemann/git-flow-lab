@@ -24,6 +24,11 @@ const poems = [
     poem: "Roses are red \n Violets are blue \n I have no idea what I'm doing \n Peanut Butter",
     image: "peanut-butter.jpeg",
   },
+  {
+    author: "Heather",
+    poem: "Roses are red \n Violets are blue \n Cats are so cute \n and dogs are adorable too",
+    image: "cute.jpg",
+  },
 ];
 
 let displayPoems = (array) => {
